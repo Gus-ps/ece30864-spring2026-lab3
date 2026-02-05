@@ -1,1 +1,1 @@
-
+Pro: We are able to break down a code in different steps; Allow integration with different team members. Product Owner: sets directions to all the team members and handles stakeholders managers; Scram Master: works with all scrum related tasks such as Jira, sprints, meetings.
